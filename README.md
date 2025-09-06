@@ -25,17 +25,10 @@ Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia, ciên
 
 ## Ferramentas e Tecnologias
 
-<i class="devicon-visualstudio-plain colored"></i>
-<i class="devicon-vscode-plain colored"></i>
-          
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-
-
----
-
-## 📊 GitHub Stats  
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-alves&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-alves&layout=compact&theme=radical)  
 
 ---
 

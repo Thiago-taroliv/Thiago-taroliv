@@ -25,7 +25,10 @@ Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia, ciên
 
 ## Ferramentas e Tecnologias
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<i class="devicon-visualstudio-plain colored"></i>
+<i class="devicon-vscode-plain colored"></i>
+          
+
 
 
 ---

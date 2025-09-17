@@ -6,7 +6,12 @@ Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia, ciên
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🚀 Sobre mim  
+
+- 🎓 Estudante de **Sistemas de Informação**
+- 📚 Interesse em **ciência da computação profunda**, **inteligência artificial**, **software**.
+- 📚 Estudando por conta própria **PHP (full stack)**, um pouco de **Node.js** e **desenvolvimento web**.
+  
 - **Linguagens:** Java, PHP, C, C++, SQL  
 - **Web:** HTML, CSS, JavaScript (aprendendo)  
 - **Banco de Dados:** MySQL  

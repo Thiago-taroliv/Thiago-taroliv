@@ -2,36 +2,40 @@
 
 💻 **Cientista em formação | Desenvolvedor em evolução | Explorador de ideias em tecnologia**  
 
-Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia, ciência e aprendizado contínuo.
+Estudante de **Sistemas de Informação** e apaixonado por tecnologia, ciência e aprendizado contínuo.
 
 ---
 
 ## 🚀 Sobre mim  
 
-- 🎓 Estudante de **Sistemas de Informação**
 - 📚 Interesse em **ciência da computação profunda**, **inteligência artificial**, **software**.
 - 📚 Estudando por conta própria **PHP (full stack)**, um pouco de **Node.js** e **desenvolvimento web**.
   
 - **Linguagens:** Java, PHP, C, C++, SQL  
-- **Web:** HTML, CSS, JavaScript (aprendendo)  
+- **Web:** HTML, CSS, JavaScript, Next.js, Node  
 - **Banco de Dados:** MySQL  
 - **Frameworks & Ferramentas:** XAMPP, Git/GitHub  
 - **Outros:** Planejamento de projetos, documentação de processos.
 
 ---
 
-## Ferramentas e Tecnologias
+<div align="center">
+   
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40"/>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+### ⚡ Stats  
 
----
-<div>
-<a href="https://github.com/Thiago-taroliv">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-taroliv&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-taroliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-taroliv&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true)
+
+
+### 🌌 Linguagens  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-taroliv&layout=compact&theme=highcontrast&hide_border=true)
+
+### 🔥 Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=Thiago-taroliv&theme=highcontrast&hide_border=true)
+
+
 </div>
+
 ---
 
 ## 🌎 Conecte-se comigo  
